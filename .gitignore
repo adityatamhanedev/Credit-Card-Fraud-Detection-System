@@ -1,0 +1,8 @@
+# Ignore datasets
+data/
+
+# Ignore models (optional)
+models/
+
+# Ignore outputs
+outputs/
