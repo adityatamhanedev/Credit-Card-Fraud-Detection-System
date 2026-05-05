@@ -30,6 +30,18 @@ We use Random Forest with SMOTE to handle imbalanced data.
    macro avg       0.84      0.95      0.89      4099
 weighted avg       0.99      0.99      0.99      4099
 
+## Dataset
+
+Due to GitHub size limits, the dataset is not included.
+
+Download it from:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+Place the file inside:
+data/creditcard.csv
 
 ## How to Run
 python main.py
+
+## Github repo link:
+https://github.com/adityatamhanedev/Credit-Card-Fraud-Detection-System
